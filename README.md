@@ -1,1 +1,0 @@
-# ecommerce-scraper-demo
